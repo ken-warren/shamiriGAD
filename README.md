@@ -1,2 +1,52 @@
-# gad-shamiri
-Exploratory data analysis on Mental Health Disorder
+# Analysis of Mental Health Disorder Among Teens in Kenya
+
+## Table of Contents
+- [Overview](#overview)
+- [Research Question](#research-question)
+- [Aims](#aims)
+- [Data Source](#data-source)
+- [Data Wrangling](#data-wrangling)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results](#results)
+
+## Overview
+Developing low-cost, culturally appropriate, and scalable interventions for youth depression and anxiety in low-income regions, such as sub-Saharan Africa, is a global mental health priority. The [Shamiri](https://www.bing.com/ck/a?!&&p=8600acd94b66e625JmltdHM9MTcxNzAyNzIwMCZpZ3VpZD0xNDI4MDJjOS02NGIwLTY2MmQtMmI5MS0xNjRhNjU1ZDY3MDEmaW5zaWQ9NTE5OA&ptn=3&ver=2&hsh=3&fclid=142802c9-64b0-662d-2b91-164a655d6701&psq=shamiri+&u=a1aHR0cHM6Ly93d3cuc2hhbWlyaS5pbnN0aXR1dGUv&ntb=1) intervention was specifically designed for adolescents in Kenya. The name “Shamiri” means “thrive” in Swahili, emphasizing its positive impact. The intervention draws upon evidence-based components from brief interventions that focus on nonclinical principles (e.g., growth mindset, gratitude, and virtues) rather than direct treatment of psychopathology.
+
+## Research Question
+**What is the relationship between the GAD and demographics such as tribe, gender, school and age?**
+
+## Aims
+1. To perform exploratory data analysis on the data
+2. To visualize the data
+
+## Data Source
+Data Source: [Download CSV file]()
+The data was obtained from a Shamiri [questionnaire]() administered to the study's participants.
+To understand the nature of the variables, you can click [here]()
+
+## Data Wrangling
+The data was thoroughly checked for missing and duplicated values. There was no missing /duplicated values, hence no need for data cleaning. For better visualization, the ```Age``` variable was categorized into three groups;
+- Less than 15 years
+- 15 - 18 years, and
+- More than 18 years
+
+## Exploratory Data Analysis
+Steps taken in this phase included;
+1. Calculating overall GAD, PHQ and MSSS mean.
+2. Calculating the GAD, PHQ and MSSS means within each demographic setting, i.e Age, Gender, Tribe etc.
+3. Visualizing the data to help understand the research question
+
+The following R packages were essential to achieve the above;
+```r
+library(ggplot2)
+library(tidyverse)
+library(dplyr)
+library(patchwork)
+```
+
+## Results
+The overall means scores were;
+- ```GAD``` = 8.12 (Mild anxiety)
+- ```PHQ``` = 9.23 (Moderate depressive symptoms)
+- ```MSS``` = 60.10
+
