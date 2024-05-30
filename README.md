@@ -20,7 +20,7 @@ Developing low-cost, culturally appropriate, and scalable interventions for yout
 2. To visualize the data
 
 ## Data Source
-Data Source: [Download CSV file](shamiri_imputed_dataset.csv)
+Data Source: [Download CSV file](shamiri_imputed_dataset.csv).
 The data was obtained from a Shamiri [questionnaire](https://github.com/ken-warren/gad-shamiri/blob/main/Baseline%20Measures%20for%20Schools.pdf) administered to the study's participants.
 To understand the nature of the variables, you can click [here](https://github.com/ken-warren/gad-shamiri/blob/main/variables.md)
 
