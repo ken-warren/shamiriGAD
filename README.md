@@ -50,3 +50,14 @@ The overall means scores were;
 - ```PHQ``` = 9.23 (Moderate depressive symptoms)
 - ```MSS``` = 60.10
 
+### Average Generalized Anxiety Disorder (GAD) Scores by Demographic Characteristics
+
+  ![Rplot_GAD](https://github.com/ken-warren/gad-shamiri/blob/main/plots/img/Rplot_GAD.jpg)
+
+### Average Patient Health Questionnaire-9 (PHQ-9) Scores by Demographic Characteristics
+
+![Rplot_PHQ](https://github.com/ken-warren/gad-shamiri/blob/main/plots/img/Rplot_PHQ.jpg)
+
+### Average Multidimensional Scale of Perceived Social Support (MSSS) Scores by Demographic Characteristics
+
+![Rplot_MSSS](https://github.com/ken-warren/gad-shamiri/blob/main/plots/img/Rplot_MSSS.jpg)
