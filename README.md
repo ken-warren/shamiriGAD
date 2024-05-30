@@ -48,7 +48,7 @@ library(patchwork)
 The overall means scores were;
 - ```GAD``` = 8.12 (Mild anxiety)
 - ```PHQ``` = 9.23 (Moderate depressive symptoms)
-- ```MSS``` = 60.10
+- ```MSSS``` = 60.10
 
 ### Average Generalized Anxiety Disorder (GAD) Scores by Demographic Characteristics
 
