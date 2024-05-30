@@ -22,7 +22,7 @@ Developing low-cost, culturally appropriate, and scalable interventions for yout
 ## Data Source
 Data Source: [Download CSV file]()
 The data was obtained from a Shamiri [questionnaire]() administered to the study's participants.
-To understand the nature of the variables, you can click [here]()
+To understand the nature of the variables, you can click [here](https://github.com/ken-warren/gad-shamiri/blob/main/variables.md)
 
 ## Data Wrangling
 The data was thoroughly checked for missing and duplicated values. There was no missing /duplicated values, hence no need for data cleaning. For better visualization, the ```Age``` variable was categorized into three groups;
