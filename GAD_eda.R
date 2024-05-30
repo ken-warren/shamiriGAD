@@ -5,7 +5,7 @@ library(dplyr)
 library(patchwork)
 
 #Load and view the data
-data <- read.csv("C://Users//RITA//Downloads//shamiri_imputed_dataset.csv", header = TRUE)
+data <- read.csv("shamiri_imputed_dataset.csv", header = TRUE)
 
 head(data)
 
