@@ -177,7 +177,7 @@ plot13 <- ggplot(grouped_data_3, aes(x = School_Resources, y = mean_MSSS, fill =
   geom_bar(stat = "identity") +
   labs(x = "School Resources", y = "Mean MSSS Score", title = "Mean MSSS Scores by School Resources")
 
-#Mean Scores by School
+# Mean Scores by School
 grouped_data_4 <- data %>%
   group_by(School) %>%
   summarize(mean_GAD = mean(cum_sum_gad), mean_PHQ = mean(cum_sum_phq),mean_MSSS=mean(cum_sum_msss))
@@ -192,7 +192,7 @@ grouped_data_5 <- data %>%
   group_by(Age_group) %>%
   summarize(mean_GAD = mean(cum_sum_gad), mean_PHQ = mean(cum_sum_phq),mean_MSSS=mean(cum_sum_msss))
 
-# bar plot
+# Bar plot
 plot15 <- ggplot(grouped_data_5, aes(x = Age_group, y = mean_MSSS, fill = Age_group)) +
   geom_bar(stat = "identity")
 labs(x = "Age group", y = "Cumulative MSSS Score", title = "MSSS Scores by Age Group")
