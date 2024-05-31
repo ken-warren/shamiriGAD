@@ -51,6 +51,12 @@ The overall means scores were;
 - ```MSSS``` = 60.10
 
 ### Average Generalized Anxiety Disorder (GAD) Scores by Demographic Characteristics
+The overall mean score for GAD was 8.12 (Mild anxiety).
+- The data showed that GAD was more prevalent in minority tribes (8.49) compared to majority tribes (7.41).
+- Females reported higher levels of GAD (8.64) compared to males (7.57).
+- Participants aged less than 15 years had a lower GAD prevalence (6.74) compared to those aged more than 18 years (10.8).
+- Those whose school resources were poor had a higher GAD prevalence (9.05) compared to those whose school resources were rich (7.73).
+- Elite School (GAD mean = 9.30) showed high GAD prevalence compared to AHS whose GAD mean was 6.97
 
   ![Rplot_GAD](https://github.com/ken-warren/gad-shamiri/blob/main/plots/img/Rplot_GAD.jpg)
 
