@@ -1,4 +1,4 @@
-# Analysis of Mental Health Disorder Among Teens in Kenya
+# Analysis of Mental Health Disorder Among Teens in Kenya.
 
 ## Table of Contents
 - [Overview](#overview)
