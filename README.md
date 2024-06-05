@@ -16,8 +16,8 @@ Developing low-cost, culturally appropriate, and scalable interventions for yout
 **What is the relationship between the GAD and demographics such as tribe, gender, school and age?**
 
 ## Aims
-1. To perform exploratory data analysis on the data
-2. To visualize the data
+1. To perform exploratory data analysis on the data.
+2. To visualize the data.
 
 ## Data Source
 Data Source: [Download CSV file](shamiri_imputed_dataset.csv).
