@@ -45,10 +45,25 @@ library(patchwork)
 ```
 
 ## Results
+
+
+![ageplot_page-0001](https://github.com/ken-warren/shamiriGAD/assets/134076996/56c17930-956d-4aac-aa30-b8cfa0b9f941)
+
+![combined_ageplots_page-0001](https://github.com/ken-warren/shamiriGAD/assets/134076996/e67a4c9d-5b4c-4f61-a466-61f51cdcfb53)
+
+![RViolinPlots_page-0001](https://github.com/ken-warren/shamiriGAD/assets/134076996/5b726cea-1bfa-4e77-ad1f-9d4ca3896ae7)
+
+
+
 The overall means scores were;
 - ```GAD``` = 8.12 (Mild anxiety)
 - ```PHQ``` = 9.23 (Moderate depressive symptoms)
 - ```MSSS``` = 60.10
+
+
+![RViolinPlots_page-0001](https://github.com/ken-warren/shamiriGAD/assets/134076996/ed545825-002d-45f7-98f4-6c51f959ad90)
+
+
 
 ### Average Generalized Anxiety Disorder (GAD) Scores by Demographic Characteristics
 The overall mean score for GAD was 8.12 (Mild anxiety). From the bar graph below, we deduced that;
@@ -58,12 +73,14 @@ The overall mean score for GAD was 8.12 (Mild anxiety). From the bar graph below
 - Those whose school resources were poor had a higher GAD mean score (9.05) compared to those whose school resources were rich (7.73).
 - Elite School showed high GAD mean score 9.30 compared to AHS whose GAD mean score was 6.97
 
-  ![Rplot_GAD](https://github.com/ken-warren/gad-shamiri/blob/main/plots/img/Rplot_GAD.jpg)
+  ![Rplot_GAD](https://github.com/ken-warren/shamiriGAD/assets/134076996/2c4cf698-bc82-4227-9d30-69a26a1dd262)
+
 
 ### Average Patient Health Questionnaire-9 (PHQ-9) Scores by Demographic Characteristics
 
-![Rplot_PHQ](https://github.com/ken-warren/gad-shamiri/blob/main/plots/img/Rplot_PHQ.jpg)
+  ![Rplot_PHQ](https://github.com/ken-warren/shamiriGAD/assets/134076996/d273e170-4a05-4794-a981-be0884035efc)
+
 
 ### Average Multidimensional Scale of Perceived Social Support (MSSS) Scores by Demographic Characteristics
 
-![Rplot_MSSS](https://github.com/ken-warren/gad-shamiri/blob/main/plots/img/Rplot_MSSS.jpg)
+  ![Rplot_MSSS](https://github.com/ken-warren/shamiriGAD/assets/134076996/e199b36c-9b5f-4753-bbb5-a639dbebf4f8)
