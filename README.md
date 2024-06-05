@@ -46,6 +46,13 @@ library(patchwork)
 
 ## Results
 
+## Overall GAD-7, PHQ-8 and MSSS-12 Means Scores 
+
+The overall means scores were;
+- ```GAD-7``` = 8.12 (Mild anxiety)
+- ```PHQ-8``` = 9.23 (Moderate depressive symptoms)
+- ```MSSS-12``` = 60.10 (support)
+
 ## 1. Age Distribution.
 
 ![ageplot_page-0001](https://github.com/ken-warren/shamiriGAD/assets/134076996/56c17930-956d-4aac-aa30-b8cfa0b9f941)
@@ -58,19 +65,13 @@ The participants' mean age was 15 years with some of the study's participants ha
 
 The relationship is linearly positive with an increase in age causing an increase in the GAD-7 mean score.
 
-## Overall GAD-7, PHQ-8 and MSSS-12 Means Scores 
-
-The overall means scores were;
-- ```GAD-7``` = 8.12 (Mild anxiety)
-- ```PHQ-8``` = 9.23 (Moderate depressive symptoms)
-- ```MSSS-12``` = 60.10 (support)
-
 ## GAD1 to GAD7 Score Across School Resources 
 
 ![RViolinPlots_page-0001](https://github.com/ken-warren/shamiriGAD/assets/134076996/ed545825-002d-45f7-98f4-6c51f959ad90)
 
 
 ### Average Generalized Anxiety Disorder (GAD) Scores by Demographic Characteristics
+
 The overall mean score for GAD was 8.12 (Mild anxiety). From the bar graph below, we deduced that;
 - GAD was more prevalent in minority tribes (8.49) compared to majority tribes (7.41).
 - Females reported higher levels of GAD (8.64) compared to males (7.57).
