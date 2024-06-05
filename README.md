@@ -46,23 +46,26 @@ library(patchwork)
 
 ## Results
 
+## 1. Age Distribution.
+
 
 ![ageplot_page-0001](https://github.com/ken-warren/shamiriGAD/assets/134076996/56c17930-956d-4aac-aa30-b8cfa0b9f941)
 
+The participants' mean age was 15 years with a some of the study's participants having a minimum age of 12 years and a maximum age of age of 24 years. Most of the study's participants were aged 15 years (199).
+
 ![combined_ageplots_page-0001](https://github.com/ken-warren/shamiriGAD/assets/134076996/e67a4c9d-5b4c-4f61-a466-61f51cdcfb53)
 
-![RViolinPlots_page-0001](https://github.com/ken-warren/shamiriGAD/assets/134076996/5b726cea-1bfa-4e77-ad1f-9d4ca3896ae7)
 
-
+## Overall GAD-7, PHQ-8 and MSSS-12 Means Scores 
 
 The overall means scores were;
-- ```GAD``` = 8.12 (Mild anxiety)
-- ```PHQ``` = 9.23 (Moderate depressive symptoms)
-- ```MSSS``` = 60.10
+- ```GAD-7``` = 8.12 (Mild anxiety)
+- ```PHQ-8``` = 9.23 (Moderate depressive symptoms)
+- ```MSSS-12``` = 60.10 (support)
 
+## GAD1 to GAD7 Score Across School Resources 
 
 ![RViolinPlots_page-0001](https://github.com/ken-warren/shamiriGAD/assets/134076996/ed545825-002d-45f7-98f4-6c51f959ad90)
-
 
 
 ### Average Generalized Anxiety Disorder (GAD) Scores by Demographic Characteristics
