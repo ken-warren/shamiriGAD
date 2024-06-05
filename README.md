@@ -51,7 +51,7 @@ library(patchwork)
 
 ![ageplot_page-0001](https://github.com/ken-warren/shamiriGAD/assets/134076996/56c17930-956d-4aac-aa30-b8cfa0b9f941)
 
-The participants' mean age was 15 years with a some of the study's participants having a minimum age of 12 years and a maximum age of age of 24 years. Most of the study's participants were aged 15 years (199).
+The participants' mean age was 15 years with some of the study's participants having a minimum age of 12 years and a maximum age of 24 years. Most of the study's participants were aged 15 years (199).
 
 ![combined_ageplots_page-0001](https://github.com/ken-warren/shamiriGAD/assets/134076996/e67a4c9d-5b4c-4f61-a466-61f51cdcfb53)
 
