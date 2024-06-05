@@ -48,13 +48,15 @@ library(patchwork)
 
 ## 1. Age Distribution.
 
-
 ![ageplot_page-0001](https://github.com/ken-warren/shamiriGAD/assets/134076996/56c17930-956d-4aac-aa30-b8cfa0b9f941)
 
-The participants' mean age was 15 years with some of the study's participants having a minimum age of 12 years and a maximum age of 24 years. Most of the study's participants were aged 15 years (199).
+The participants' mean age was 15 years with some of the study's participants having a minimum age of 12 years and a maximum age of 24 years. Most of the study's participants were aged 16 years (199) with only 7 of the participants aged 20 years and above.
 
-![combined_ageplots_page-0001](https://github.com/ken-warren/shamiriGAD/assets/134076996/e67a4c9d-5b4c-4f61-a466-61f51cdcfb53)
+## Relationship Between the Average GAD-7 Score and Age 
 
+![AgeVsGAD_scatterplot](https://github.com/ken-warren/shamiriGAD/assets/134076996/ad7ccea5-daa4-486a-9a2f-0af488a80ab8)
+
+The relationship is linearly positive with an increase in age causing an increase in the GAD-7 mean score.
 
 ## Overall GAD-7, PHQ-8 and MSSS-12 Means Scores 
 
