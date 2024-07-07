@@ -7,6 +7,7 @@
 - [Data Source](#data-source)
 - [Data Wrangling](#data-wrangling)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Power BI Reports](#power-bi-reports)
 - [Results](#results)
 
 ## Overview
@@ -36,6 +37,7 @@ Steps taken in this phase included;
 1. Calculating overall GAD, PHQ and MSSS mean.
 2. Calculating the GAD, PHQ and MSSS means within each demographic setting, i.e Age, Gender, Tribe etc.
 3. Visualizing the data to help understand the research question
+4. Using Power BI to further visualize the data
 
 The following R packages were essential to achieve the above;
 ```r
@@ -91,3 +93,19 @@ The overall mean score for GAD was 8.12 (Mild anxiety). From the bar graph below
 ### Average Multidimensional Scale of Perceived Social Support (MSSS) Scores by Demographic Characteristics
 
   ![Rplot_MSSS](https://github.com/ken-warren/shamiriGAD/assets/134076996/e199b36c-9b5f-4753-bbb5-a639dbebf4f8)
+
+
+## Power BI Reports
+To view the interactive Power BI report you can find the link here []()
+
+## Overall Mental Health Report
+<img width="867" alt="gad1" src="https://github.com/ken-warren/shamiriGAD/assets/134076996/051da8a4-77ff-4ff1-aad5-e055ac9882d7">
+
+## General Anxiety Disorder Report
+<img width="875" alt="Gad2" src="https://github.com/ken-warren/shamiriGAD/assets/134076996/752616ca-40ff-4b86-a1ac-e37e3063f6d0">
+
+## Patient Health Questionnaire Report
+<img width="866" alt="gad3" src="https://github.com/ken-warren/shamiriGAD/assets/134076996/0fa4f208-3f5b-4ffa-b054-8895ba9d0198">
+
+## Multidimensional Scale of Perceived Support Report
+<img width="867" alt="gad4" src="https://github.com/ken-warren/shamiriGAD/assets/134076996/eb1a40a6-0248-44da-afb6-dd5cf449717e">
